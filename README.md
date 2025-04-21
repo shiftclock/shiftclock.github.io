@@ -2,5 +2,5 @@
 
 AI Shift Scheduler Alarm Clock
 
-- [Support](https://workperiodcalendar.github.io/support)
-- [Privacy Policy](https://workperiodcalendar.github.io/privacy-policy)
+- [Support](https://shiftclock.github.io/support)
+- [Privacy Policy](https://shiftclock.github.io/privacy-policy)
